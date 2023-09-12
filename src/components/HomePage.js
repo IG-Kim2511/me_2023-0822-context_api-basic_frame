@@ -10,7 +10,7 @@ const HomePage = () => {
   
   return (
     <div>
-        HomePage
+        HomePage  
 
         <br />
         <main className="products__wrapper">

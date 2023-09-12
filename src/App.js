@@ -61,7 +61,7 @@ const App = () => {
     const initialState ={
       showCart:false,
       cartItems:[],   /* cart */
-      test:"hi test",
+      test:"hi test",  
     }
     
     const [state, dispatch] = useReducer(CartReducer, initialState);
