@@ -1,7 +1,7 @@
 
 // CartState.js
 import React, { createContext, useReducer } from 'react'
-import CartContext from './CartContext';
+import CartContext from '../context/cart/CartContext';
 
 
  const SHOW_HIDE_CART = "SHOW_HIDE_CART";
